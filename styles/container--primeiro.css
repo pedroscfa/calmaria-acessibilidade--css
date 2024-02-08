@@ -39,10 +39,10 @@
     font-weight: 700;
 }
 
-.container__primeiro--texto-botao:hover{
+.container__primeiro--texto-botao:hover {
     background: var(--lilas-escuro);
     transition: .5s;
-    cursor:pointer;
+    cursor: pointer;
 }
 
 .container__primeiro--imagem {
@@ -57,7 +57,7 @@
     .container__primeiro {
         align-items: center;
         text-align: start;
-        padding: 6.4rem 6.0rem;
+        padding: 6.4rem 6rem;
     }
 
     .container__primeiro--texto {
@@ -69,7 +69,7 @@
     }
 
     .container__primeiro--texto-botao {
-        width: 28.0rem;
+        width: 28rem;
     }
 
     .container__primeiro--imagem {
@@ -85,7 +85,7 @@
 
     .container__primeiro {
         flex-direction: row;
-        padding: 0 22.0rem 8.0rem 22.0rem;
+        padding: 0 22rem 8rem 22rem;
     }
 
     .container__primeiro--imagem {
